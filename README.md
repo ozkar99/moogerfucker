@@ -16,7 +16,7 @@ Just simple square waves.
 
 ### Wiring:
 
-<image here>
+![Alt text](/diagrams/synth_photo.jpg "Frtizing")
 
 
 #### Analog Inputs:
